@@ -1,2 +1,2 @@
 # Data-Structure
-The data structure for the class
+The data structure for algorithm  class
